@@ -1,0 +1,23 @@
+.contact {
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.contac {
+    font-size: 30px
+}
+
+ul li a i {
+    font-size: 30px;
+    color: grey;
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px;
+}
+
+ul {
+    display: flex;
+    gap: 40px;
+}
